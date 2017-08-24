@@ -13,7 +13,7 @@ We begin labs this week by learning the basics of a version control system known
 
 Let us begin by visiting [https://github.com](https://github.com) and sign up for a GitHub account (if you don’t already have one; if you do, sign in). If you don’t already have one, for the purposes of this class, it is recommended that you pick a username that matches your BearPass username.
 
-![Signup](https://github.com/professordaehn/msu-csc232-labnegative1/docs/signup.tif)
+![Signup](signup.png)
 
 ## Welcome to GitHub Pages
 
